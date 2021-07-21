@@ -10,3 +10,5 @@ There are basically **three** types of recommender systems:-
 In this repository I have made three python kernels explaining and implementing the different types of movie recommender systems.
 
 Datasets - [The Movie Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset) , [TMDB Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
+
+To access the recommender systems you can fork this repository and run the python notebooks locally.
